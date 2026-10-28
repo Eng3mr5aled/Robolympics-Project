@@ -10,6 +10,7 @@
 ![Edge Impulse](https://img.shields.io/badge/AI-Edge%20Impulse-0F6CBD?style=for-the-badge)
 ![Competition](https://img.shields.io/badge/Event-Robolympics%202026-F59E0B?style=for-the-badge)
 ![Result](https://img.shields.io/badge/Result-🥈%202nd%20Place-9CA3AF?style=for-the-badge)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Eng3mr5aled/Robolympics-Project)
 
 **Team:** `TURBO` &nbsp;|&nbsp; **Institution:** Faculty of Engineering, Ain Shams University &nbsp;|&nbsp; **Event:** Robolympics 2026 — Escape Protocol Edition (Aviation Club, ASU)
 
