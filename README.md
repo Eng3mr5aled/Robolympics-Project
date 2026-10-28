@@ -15,7 +15,7 @@
 **Team:** `TURBO` &nbsp;|&nbsp; **Institution:** Faculty of Engineering, Ain Shams University &nbsp;|&nbsp; **Event:** Robolympics 2026 — Escape Protocol Edition (Aviation Club, ASU)
 
 ### 🥈 Runner-Up — 2nd Place · "Wedge of Glory"
-
+[![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/eng3mr5aled/robolympics-project?utm_source=readme&utm_medium=badge)
 </div>
 
 ---
